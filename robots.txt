@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cuitigh.github.io/sitemap.html.gz
+Sitemap: https://cuitigh.github.io/app/sitemap.html.gz
+Sitemap: https://cuitigh.github.io/assets/sitemap.html.gz
+Sitemap: https://cuitigh.github.io/css/sitemap.html.gz
+Sitemap: https://cuitigh.github.io/data/sitemap.html.gz
+Sitemap: https://cuitigh.github.io/includes/sitemap.html.gz
+Sitemap: https://cuitigh.github.io/item/sitemap.html.gz
+Sitemap: https://cuitigh.github.io/src/sitemap.html.gz
